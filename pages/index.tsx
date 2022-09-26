@@ -1,4 +1,3 @@
-import { CLIENT_STATIC_FILES_RUNTIME_POLYFILLS } from "next/dist/shared/lib/constants";
 import { useForm, FieldErrors } from "react-hook-form";
 
 type FormData = {
